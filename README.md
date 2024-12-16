@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error where a variable is used before it's declared.  The `bug.as` file shows the erroneous code, resulting in a 'ReferenceError: Error #1069'. The solution, in `bugSolution.as`, correctly initializes the variable before use, resolving the error.
